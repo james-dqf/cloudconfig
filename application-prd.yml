@@ -15,4 +15,4 @@ feign:
   hystrix:
     enabled: true
 
-myname: james
+myname: dengqifeng
