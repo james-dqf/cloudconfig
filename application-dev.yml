@@ -3,7 +3,7 @@ spring:
     name: feign-consumer
   profiles: feign-consumer
 server:
-  port: 8872
+  port: 8873
 
 
 eureka:
